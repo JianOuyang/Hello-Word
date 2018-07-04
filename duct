@@ -4,4 +4,9 @@ public class Duct
     {
       first commit.
     }
+    
+    pricate void GetLength()
+    {
+        second commit.
+    }
 }
