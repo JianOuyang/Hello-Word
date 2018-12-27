@@ -1,10 +1,5 @@
 public class Duct
 {
-    public Duct()
-    {
-      first commit.
-    }
-    
     pricate void GetLength()
     {
         second commit.
